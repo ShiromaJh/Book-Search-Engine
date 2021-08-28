@@ -9,7 +9,7 @@
     "build": "cd client && npm run build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Justin Hoffman",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
